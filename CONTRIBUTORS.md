@@ -4,6 +4,11 @@
 - GitHub: [rutuke](https://github.com/rutuke)
 - Website: [https://www.rutap.tech](https://www.rutap.tech)
 - Starup: [EndorseU](http://www.endorseu.com)
+- 
+#### Name: [Akshi Agarwal](https://github.com/akshi-ag)
+- Place: Jaipur,Rajasthan ,India
+- Bio: Im 3rd year btech student
+- GitHub: [akshi-ag](https://github.com/akshi-ag)
 
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
